@@ -9,3 +9,6 @@ Php (version 7.1.0 required)
 
 Apache
   Mod_rewrite
+
+
+Default Login Detail: Email-  superadmin@edufirm.com , Password – admin
