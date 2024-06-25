@@ -12,3 +12,5 @@ Apache
 
 
 Default Login Detail: Email-  superadmin@edufirm.com , Password – admin
+
+If not getting login use :http://localhost/public/login
